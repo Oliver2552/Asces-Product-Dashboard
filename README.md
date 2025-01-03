@@ -6,13 +6,13 @@ This project focuses on developing a high-level product analytics dashboard to p
 
 ## Workflow
 
-1. Build a database to organize and store relevant product data.
+1. Build a database to organize and store relevant product data (Relevant files/tables can be seen in the 'Data' folder, consisting of 'discount_data', 'product_data', and 'product_sales').
 
-2. Write SQL queries to gather data from multiple tables to address the required metrics.
+2. Write SQL queries to gather data from multiple tables to address the required metrics (Query can be seen in 'SQL_Query.sql').
 
 3. Connect database to a data visualization Tool and enable data access for dashboard creation.
 
-4. Create the dashboard incorporating visuals that provide clear, actionable insights and ultimately answer the questions.
+4. Create the dashboard incorporating visuals that provide clear, actionable insights and ultimately answer the questions (images used in dashboard can be seen in 'Images folder').
 
 ## Tools Used
 
