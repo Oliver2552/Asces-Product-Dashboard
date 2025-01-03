@@ -26,9 +26,7 @@ This project focuses on developing a high-level product analytics dashboard to p
 
 ## Project Goal
 
-My Goal with this project is to frame it as a request from management or a stakeholder. Consider the following email:
-
-Email from Management
+My Goal with this project is to frame it as a request from management or a stakeholder. Consider the following email/request:
 
 SUBJECT: Request for Dashboard Development: Product Analysis Overview
 
