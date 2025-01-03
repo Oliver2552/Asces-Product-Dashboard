@@ -36,19 +36,7 @@ Dear Data Analyst,
 
 I hope this message finds you well. I would like to request the development of a high-level product analytics dashboard that provides insights into key product performance metrics. This dashboard will serve to support strategic decision-making and allow us to track performance trends effectively.
 
-Key questions the dashboard must answer:
-
-What are the top-performing regions with corresponding revenue?
-
-What are the date-comparative trends?
-
-What is a high-level summary of growth?
-
-How are our discount categories performing?
-
-What are the revenue and profit details by country and year?
-
-Include any additional insights you see fit.
+Key questions the dashboard must answer: What are the top-performing regions with corresponding revenue? What are the date-comparative trends? What is a high-level summary of growth? How are our discount categories performing? What are the revenue and profit details by country and year? Include any additional insights you see fit.
 
 
 Best,
